@@ -1,0 +1,8 @@
+[
+  "pulse_count",
+  "malware_count",
+  "confidence_score",
+  "is_tor",
+  "country_risk",
+  "asn_reputation"
+]

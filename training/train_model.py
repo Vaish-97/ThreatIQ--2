@@ -7,7 +7,9 @@ from sklearn.ensemble import RandomForestClassifier
 # 🚫 NO API IMPORTS
 # 🚫 NO NETWORK CALLS
 
-DATASET_PATH = Path("../dataset/pulse_dataset.jsonl")
+DATASET_PATH = Path("../dataset/pulse_dataset_v1_enriched.jsonl")
+
+
 
 FEATURE_SCHEMA = [
     "pulse_count",
